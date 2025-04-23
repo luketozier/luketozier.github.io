@@ -38,7 +38,7 @@ I handled the **entire analytics pipeline**: from data cleaning and reshaping, t
 
 ### 🧪 Creatinine by Region and Visit
 
-![Creatinine Regression](../assets/images/Creatinina%20IMC%20Regression.png)
+![Creatinine Regression](../assets/images/CreatininaIMCRegression.png)
 
 ---
 
