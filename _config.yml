@@ -117,7 +117,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"  
   bio              : "Bachelor's in New Media | Data Analyst | R, Excel, Python"
   location         : "Maine, USA"
-  email            : your.email@example.com  # Optional
+  email            : datatozier@gmail.com  # Optional
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
