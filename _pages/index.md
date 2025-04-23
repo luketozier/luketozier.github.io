@@ -1,11 +1,12 @@
 ---
-title: "Home"
+title: ""
+masthead_title: ""
 layout: splash
 permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/header-bg.jpg  # You can upload any image you like here
+  overlay_image: /assets/images/header-bg.jpg
   actions:
     - label: "View My Work"
       url: "/portfolio/cyclistic-case-study/"
