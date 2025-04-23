@@ -4,11 +4,6 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
-    children:
-      - title: "Heat Exposure Study"
-        url: /portfolio/heat-exposure/
-      - title: "Cyclistic Case Study"
-        url: /portfolio/cyclistic-case-study/
 
   - title: "About Me"
     url: /about/
