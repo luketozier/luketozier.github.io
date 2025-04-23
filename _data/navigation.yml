@@ -1,14 +1,13 @@
-# main links
 main:
   - title: "Home"
     url: /
 
   - title: "Portfolio"
     children:
+      - title: "Heat Exposure Study"
+        url: /portfolio/heat-exposure/
       - title: "Cyclistic Case Study"
         url: /portfolio/cyclistic-case-study/
-        - title: "Heat Exposure Study"
-        url: /portfolio/heat-exposure/
 
   - title: "About Me"
     url: /about/
