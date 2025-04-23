@@ -7,8 +7,8 @@ main:
     children:
       - title: "Cyclistic Case Study"
         url: /portfolio/cyclistic-case-study/
-      # - title: "Another Project"
-      #   url: /portfolio/another-project/
+        - title: "Heat Exposure Study"
+        url: /portfolio/heat-exposure/
 
   - title: "About Me"
     url: /about/
