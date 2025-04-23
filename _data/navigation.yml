@@ -3,6 +3,7 @@ main:
     url: /
 
   - title: "Portfolio"
+    url: /portfolio/
     children:
       - title: "Heat Exposure Study"
         url: /portfolio/heat-exposure/
