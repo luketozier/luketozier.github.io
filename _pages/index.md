@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/header-bg.jpg
   actions:
     - label: "View My Work"
-      url: "/portfolio/cyclistic-case-study/"
+      url: "/portfolio/"
     - label: "Contact Me"
       url: "/contact/"
 excerpt: "Freelance Data Analyst • R • Excel • Python"
@@ -34,8 +34,9 @@ Whether you're a business looking to understand customer behavior, a researcher 
 
 ## 📊 Featured Project
 
-👉 [Cyclistic Bike-Share Case Study](/portfolio/cyclistic-case-study/)  
-Analyzed 5.8M+ ride records to help drive marketing decisions with data.
+👉 [Heat Exposure & Renal Health Case Study](/portfolio/heat-exposure/)  
+Analyzed hydration, kidney function, and heart rate data from Costa Rican road workers to uncover the health impacts of occupational heat exposure using R and advanced statistical methods.
+
 
 ---
 
